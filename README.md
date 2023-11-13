@@ -10,6 +10,6 @@
 
 🛠️ Check out my repositories for a closer look at my coding adventures and data-driven projects. Open to collaboration and always eager to learn! Let's connect and create something amazing together. 🌟
 
-📫 Reach me at [suresh.sr@northeastern.edu] or connect with me on [https://www.linkedin.com/in/sree-krishna/] and [GitHub].
+📫 Reach me at [Email](suresh.sr@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/sree-krishna/).
 
 Happy coding! 🚀
