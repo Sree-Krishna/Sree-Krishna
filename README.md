@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hello, I'm Sree Krishna, a passionate data science graduate with a knack for solving complex problems through code. 👨‍💻
 
-<!--
-**Sree-Krishna/Sree-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Here's a glimpse of what I bring to the table:
+- 💻 Proficient in Python, R, Java, C, C++, MATLAB
+- 📊 Experienced in data science and machine learning using PyTorch, TensorFlow, NumPy, Pandas, and Scikit-Learn
+- 🌐 Web and database skills with Angular, Spring, JavaScript, HTML5, CSS, Git, SQL, PostgreSQL
+- ☁️ Cloud expertise with AWS, and familiarity with tools like Tableau, PySpark, TeamCity, Jenkins, Terraform, and MS Excel
 
-Here are some ideas to get you started:
+🔍 Exploring the intersections of technology and data to build innovative solutions and contribute to impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Check out my repositories for a closer look at my coding adventures and data-driven projects. Open to collaboration and always eager to learn! Let's connect and create something amazing together. 🌟
+
+📫 Reach me at [suresh.sr@northeastern.edu] or connect with me on [https://www.linkedin.com/in/sree-krishna/] and [GitHub].
+
+Happy coding! 🚀
